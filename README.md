@@ -4,11 +4,11 @@
 > $ python3 pillowart.py  
 > --- 0.03580737113952637 seconds ---
 
-![](https://raw.githubusercontent.com/unton3ton/3.14low/main/neuroart/11.jpg)
-![](https://raw.githubusercontent.com/unton3ton/3.14low/main/pixelart/11_output.jpg)
-![](https://raw.githubusercontent.com/unton3ton/3.14low/main/pixelart/11_output_16.jpg)
-![](https://raw.githubusercontent.com/unton3ton/3.14low/main/pixelart/11_output_32.jpg)
-![](https://raw.githubusercontent.com/unton3ton/3.14low/main/pixelart/11_output_48.jpg)
+![](https://raw.githubusercontent.com/unton3ton/3.14low/main/neuroart/11.jpg)  
+![](https://raw.githubusercontent.com/unton3ton/3.14low/main/pixelart/11_output.jpg)  
+![](https://raw.githubusercontent.com/unton3ton/3.14low/main/pixelart/11_output_16.jpg)  
+![](https://raw.githubusercontent.com/unton3ton/3.14low/main/pixelart/11_output_32.jpg)  
+![](https://raw.githubusercontent.com/unton3ton/3.14low/main/pixelart/11_output_48.jpg)  
 
 ## Sources
 
